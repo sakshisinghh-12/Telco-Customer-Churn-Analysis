@@ -30,4 +30,4 @@ This project focuses on identifying key factors contributing to customer churn i
 
 - Design targeted offers for high-risk customer segments,
 
-Optimize service packages and billing methods.
+- Optimize service packages and billing methods.
